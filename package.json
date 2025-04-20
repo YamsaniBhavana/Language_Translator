@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Venkateeshh/Js-Language-Translator.git"
+    "url": "git+https://github.com/YamsaniBhavana/Language_Translator.git"
   },
   "keywords": ["language", "translator", "node", "express", "google translate"],
   "author": "Your Name",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Venkateeshh/Js-Language-Translator/issues"
+    "url": "https://github.com/YamsaniBhavana/Language_Translator/issues"
   },
-  "homepage": "https://github.com/Venkateeshh/Js-Language-Translator#readme",
+  "homepage": "https://github.com/YamsaniBhavana/Language_Translator#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
