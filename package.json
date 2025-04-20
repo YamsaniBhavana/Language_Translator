@@ -1,5 +1,5 @@
 {
-  "name": "language_translator",
+  "name": "speakflow_translator",
   "version": "1.0.0",
   "description": "A simple language translator web app using Node.js and Express",
   "main": "server.js",
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YamsaniBhavana/Language_Translator.git"
+    "url": "git+https://github.com/YamsaniBhavana/speakflow_translator.git"
   },
   "keywords": ["language", "translator", "node", "express", "google translate"],
   "author": "Your Name",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/YamsaniBhavana/Language_Translator/issues"
+    "url": "https://github.com/YamsaniBhavana/speakflow_translator/issues"
   },
-  "homepage": "https://github.com/YamsaniBhavana/Language_Translator#readme",
+  "homepage": "https://github.com/YamsaniBhavana/speakflow_translator#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
